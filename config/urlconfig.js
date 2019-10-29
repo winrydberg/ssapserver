@@ -1,0 +1,1 @@
+exports.lecturerBaseURL ='http://localhost:8081'
